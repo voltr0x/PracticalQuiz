@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+
+    //MainActivity
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_context">Write about yourself</string>
+    <string name="action_next">Next</string>
+
+    //DetailActivity
+    <string name="profile_picture">User profile picture</string>
+    <string name="demo_user">DemoUsername</string>
+    <string name="demo_user_email">DemoUserEmail</string>
+    <string name="demo_content">Demo user description here</string>
+
+    //Menu
+    <string name="menu_user">User</string>
+
+</resources>
